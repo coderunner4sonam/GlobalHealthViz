@@ -32,7 +32,7 @@ const INITIAL_STATE:contactRecordType = {
             status:"inactive"
         }
     ],
-    title:"Contact Page"
+    title:"Global Health Viz"
 } 
 
 export const actionReducer = (state=INITIAL_STATE,action:actionType)=>{
